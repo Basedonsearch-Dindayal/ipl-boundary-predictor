@@ -1,4 +1,5 @@
 # IPL 2025 Boundary Predictor
+(Don't laugh that my first react app)
 
 A simple React app that predicts the number of sixes and fours in an IPL match based on selected teams, stadium, and toss decision.
 
